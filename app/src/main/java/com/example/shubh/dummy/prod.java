@@ -3,6 +3,7 @@ package com.example.shubh.dummy;
 public class prod {
 
     String pri,tit,desc;
+    //this is class having the info regarding the product
 
     public prod(String pri, String tit, String desc) {
         this.pri = pri;
